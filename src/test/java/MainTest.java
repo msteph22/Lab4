@@ -8,8 +8,9 @@ import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
 /**
- *
- * @author stephensmac
+ *Insurance Estimator
+ * @author msteph22
+ * 
  */
 public class MainTest {
     
