@@ -41,7 +41,8 @@ public class Bank_Charges {
         } else if(numOfChecks >= 60){
            total = (0.04 * numOfChecks) + 10;
         } else{
-          System.out.println("Please Enter a valid number.");
+            System.out.println("Please Enter a valid number.");
+            total = 10; 
         }
         return total;
     }
